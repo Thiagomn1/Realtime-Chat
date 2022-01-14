@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(247, 247, 247)
+}
+
+.container{
+    max-width: 600px;
+}
+
+.btn{
+    background: #43d9be;
+    color: white;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.btn:focus{
+    outline: none !important;
+}
+
+.formbtn{
+    margin-left: 5px;
+}
+
+.username{
+    font-weight: bold;
+}
+
+.time{
+    font-size: 0.7em;
+    color: #999;
+}
+
+.update-msg{
+    margin: 20px auto;
+    opacity: 100%;
+}
+
+.fade{
+    opacity: 0%;
+    transition: 1s ease-in-out;
+}
