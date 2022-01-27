@@ -10,7 +10,3 @@ Platform developed used vanilla javascript for interaction via messages with dif
 - Update username
 - Room selection
 - Firebase DB
-
-#
-
-!["Screenshot of main page"](/github/preview.png)
